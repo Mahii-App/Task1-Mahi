@@ -1,4 +1,4 @@
-// config/server.js
+
 const Hapi = require('@hapi/hapi');
 const userRoutes = require('./routes/userRouters');
 
