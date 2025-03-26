@@ -1,5 +1,4 @@
 
-// models/userModels.js
 const pool = require('../config/db');
 
 // Get all users
