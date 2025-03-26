@@ -1,5 +1,5 @@
-// config/db.js
-const { Pool } = require('pg'); // Correctly destructure Pool (uppercase)
+
+const { Pool } = require('pg'); 
 require('dotenv').config();
 
 const pool = new Pool({
