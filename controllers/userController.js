@@ -1,4 +1,4 @@
-// controllers/userController.js
+
 const userModel = require('../models/userModels');
 
 // Get all users
